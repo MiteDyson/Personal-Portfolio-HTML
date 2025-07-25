@@ -1,6 +1,6 @@
 # 📄 Personal Resume – Basic HTML Website
 
-This project is a **semantic, SEO-optimized resume website** built using only HTML. It's part of the [roadmap.sh Basic Website project](https://roadmap.sh/projects/basic-html-website) and serves as a foundation for showcasing your frontend developer profile. The structure is ready for future CSS styling and responsive improvements.
+This project is a **semantic, SEO-optimized resume website** built using only HTML. It's part of the [roadmap.sh- Basic Website project](https://roadmap.sh/projects/basic-html-website) and serves as a foundation for showcasing your frontend developer profile. The structure is ready for future CSS styling and responsive improvements.
 
 
 ## ✨ Features
