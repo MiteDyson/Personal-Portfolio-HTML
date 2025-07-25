@@ -62,4 +62,4 @@ open index.html   # or just drag into your browser
 
 This is part of the [roadmap.sh frontend project series](https://roadmap.sh/projects/single-page-cv).
 
-[Sharable solution link](https://roadmap.sh/projects/basic-html-website/solutions?u=6606c717da1671f986d81d97)
+[Sharable solution link](https://roadmap.sh/projects/single-page-cv/solutions?u=6606c717da1671f986d81d97)
